@@ -31,6 +31,7 @@ Geography: 9
 History: 9
 Spanish: 8
 French: 9
+```
 
 ## Internal Achievements
 
