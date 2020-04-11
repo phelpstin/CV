@@ -1,4 +1,4 @@
-## Phelps Tin's CV
+# Phelps Tin's CV
 
 I am a student at Eton College and this is a record of what activities I have done so far.
 
