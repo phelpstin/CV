@@ -20,17 +20,17 @@ Trials:
 Predicted: 
 (9 = equivalent of A**; 8 = A*)
 ```markdown
-English Literature: 9
-English Language: 9
-Maths: 9
-Computer Science: 9
-Biology: 9
-Chemistry: 9
-Physics: 9
-Geography: 9
-History: 9
-Spanish: 8
-French: 9
+ English Literature: 9
+ English Language: 9
+ Maths: 9
+ Computer Science: 9
+ Biology: 9
+ Chemistry: 9
+ Physics: 9
+ Geography: 9
+ History: 9
+ Spanish: 8
+ French: 9
 ```
 
 ## Internal Achievements
