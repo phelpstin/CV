@@ -2,7 +2,7 @@
 
 I am a student at Eton College and this is a record of what activities I have done so far.
 
-### Academic Achievements
+# Academic Achievements
 
 ```markdown
  1. School Examinations 
@@ -22,7 +22,7 @@ Trials:
 
 ##  GCSE Results
 Predicted: 
-(9 = equivalent of A**; 8 = A*)
+(9 = equivalent of A***; 8 = A**)
 ```markdown
  English Literature: 9
  English Language: 9
