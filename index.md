@@ -11,10 +11,14 @@ I am a student at Eton College and this is a record of what activities I have do
  4. External Achievements  
 ```
 ## School Examinations
+
 Trials:
-2017: 2 Merits
-2018: 1 Merit, 1 Distinction
-2019: 1 Distinction, GCSES (No internal examinations)
+```markdown
+
+ 2017: 2 Merits
+ 2018: 1 Merit, 1 Distinction
+ 2019: 1 Distinction, GCSES (No internal examinations)
+```
 
 ##  GCSE Results
 Predicted: 
